@@ -9,8 +9,6 @@
 # Early Alpha
 
 The following points are very emphasized :
-
-- This is an **EARLY, UNSTABLE, PREVIEW RELEASE** of the project. ⚠️ Until v1 is released, it is expected to break often. 
 - **It consumes a lot of tokens**. If you are on a tokens budget, wait until v1 is released.
 - Again, this is an early, unstable release. A first test run. An early preview of the project's ideas. Far from completion. Open-source iterative development. Work in progress. Unstable early alpha release. [etc]
 
